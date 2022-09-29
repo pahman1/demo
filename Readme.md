@@ -1,5 +1,3 @@
-![валера хй](https://github.com/netology-ds-team/git-homeworks/blob/main/1_self/logo.png?raw=true)
-
 # Мы на столько крутые, что уже успели поработать со следующими команиями:
 
 1. ООО «Рога и копыта»
